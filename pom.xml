@@ -13,7 +13,7 @@
 
   <groupId>dev.warden</groupId>
   <artifactId>svc-books</artifactId>
-  <version>0.1.4</version>
+  <version>0.1.5</version>
   <name>svc-books</name>
   <description>Warden service books (owner: warden-maintainers)</description>
 
